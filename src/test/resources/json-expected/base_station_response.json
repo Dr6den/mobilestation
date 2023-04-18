@@ -1,0 +1,7 @@
+{
+    "base_station_id": "6c72fb7c-b87d-4c7f-b8b7-3bf2419df373",
+            "reports": [
+                {"mobile_station_id": "6c72fb7c-b87d-4c7f-b8b7-3bf2419df373", "distance": 1.0, "timestamp": "2007-09-23T07:10:10.000+00:00"},
+                {"mobile_station_id": "5c72fb7c-b87d-4c7f-b8b7-3bf2419df373", "distance": 2.0, "timestamp": "2007-09-23T07:10:10.000+00:00"}
+            ]
+}
